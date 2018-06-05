@@ -1,0 +1,2 @@
+# lottery
+Simple PHP lottery
