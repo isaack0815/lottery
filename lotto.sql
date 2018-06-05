@@ -1,0 +1,9 @@
+CREATE DATABASE LottoDB;
+
+USE LottoDB;
+
+CREATE TABLE Gebruikers 
+(
+  gebruikersnaam VARCHAR(100) NOT NULL PRIMARY KEY,
+  wachtwoord VARCHAR(255) NOT NULL
+) ENGINE = INNODB;

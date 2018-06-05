@@ -1,0 +1,22 @@
+body
+{
+    font-family:Arial;
+}
+h1
+{
+    color:Olive;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+td
+{
+    border-style:solid;
+    border-width:0.1em;
+}
+.kolbreedte
+{
+    width:6em;
+}
